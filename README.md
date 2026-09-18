@@ -2,6 +2,7 @@ Water Reminder App
 A lightweight, frameless, and transparent Windows desktop application built with Flutter. This resident background app gently reminds you to hydrate by bringing an animated character onto your screen every hour.
 
 <img width="297" height="475" alt="image" src="https://github.com/user-attachments/assets/52b8c7bd-ccf1-43bb-bfdb-cc7c76154557" />
+An animated character steps onto your desktop when it's time to hydrate, and seamlessly walks off-screen as soon as you log your water or hit snooze.
 <img width="301" height="470" alt="image" src="https://github.com/user-attachments/assets/ec7c59a4-ad4f-436c-90d2-7125cf398ec8" />
 
 Features
