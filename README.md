@@ -1,4 +1,5 @@
 **Water Reminder App**
+
 A lightweight, frameless, and transparent Windows desktop application built with Flutter. This resident background app gently reminds you to hydrate by bringing an animated character onto your screen every hour.
 
 <img width="297" height="475" alt="image" src="https://github.com/user-attachments/assets/52b8c7bd-ccf1-43bb-bfdb-cc7c76154557" />
@@ -15,7 +16,9 @@ An animated character steps onto your desktop when it's time to hydrate, and sea
  - Resource Efficient: Hides itself completely between reminders, utilizing a lightweight background timer instead of consuming constant UI rendering resources.
 
 **Tech Stack**
+
 Framework: Flutter (Desktop / Windows)
+
 Packages Used:
  - window_manager: Handles frameless, transparent, and always-on-top window states.
  - gif_view: Manages optimized, single-play frame rendering for the animated character assets.
